@@ -23,14 +23,14 @@ Key Steps:
 
 Tools: `transformers`, `torch`
 
-Sample Output:
-```json
-{
-  "answer": "Charles Babbage",
-  "score": 0.87,
-  "start": 0,
-  "end": 16
-}
+ Sample Output:
+ ```json
+ {
+   "answer": "Charles Babbage",
+   "score": 0.87,
+   "start": 0,
+   "end": 16
+ }
 
 ---
 
