@@ -23,7 +23,7 @@ Key Steps:
 
 Tools: `transformers`, `torch`
 
- Sample Output:
+Sample Output:
 ```json
 {
   "answer": "Charles Babbage",
