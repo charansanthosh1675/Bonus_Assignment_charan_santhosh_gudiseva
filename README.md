@@ -23,7 +23,7 @@ Key Steps:
 
 Tools: `transformers`, `torch`
 
-Sample Output:
+## Sample Output:
 ```json
 {
   "answer": "Charles Babbage",
@@ -31,7 +31,7 @@ Sample Output:
   "start": 0,
   "end": 16
 }
-
+```
 
 
 #Task 2: Digit-Class Controlled Image Generation with Conditional GAN
