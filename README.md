@@ -32,7 +32,7 @@ Sample Output:
   "end": 16
 }
 
-
+---
 
 #Task 2: Digit-Class Controlled Image Generation with Conditional GAN
 
