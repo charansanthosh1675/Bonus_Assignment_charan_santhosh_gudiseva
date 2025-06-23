@@ -24,7 +24,7 @@ Key Steps:
 Tools: `transformers`, `torch`
 
  Sample Output:
- ```json
+  ```json
  {
    "answer": "Charles Babbage",
    "score": 0.87,
